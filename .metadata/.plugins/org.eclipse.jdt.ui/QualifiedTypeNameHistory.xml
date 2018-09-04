@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="queue.Queue"/>
+<fullyQualifiedTypeName name="singlylinkedlist.SinglyLinkedList"/>
+<fullyQualifiedTypeName name="curcularlinkedlist.CircularLinkedList"/>
+<fullyQualifiedTypeName name="doublylinkedlist.DoublyLinkedList"/>
+<fullyQualifiedTypeName name="array.Array"/>
+<fullyQualifiedTypeName name="stack.Stack"/>
+</qualifiedTypeNameHistroy>

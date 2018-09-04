@@ -1,0 +1,26 @@
+package algo.binarysearch;
+
+public class App {
+
+	public static void main(String[] args) {
+		System.out.println(binaryfind(new int[] {1,2,3,4,5},5));
+		System.out.println("Hello");
+	}
+	
+	public static int binaryfind(int[] a, int key) {
+		int low = 0;
+		int high = a.length-1;
+		while(low<=high) {
+			int middle = (low+high)/2;
+			if(a[middle]>key) {
+				low = middle - 1;
+			}else if(a[middle]<key) {
+				high = middle + 1;
+			}else{
+				return a[middle];
+			}
+		}
+		return -1;
+	}
+
+}
