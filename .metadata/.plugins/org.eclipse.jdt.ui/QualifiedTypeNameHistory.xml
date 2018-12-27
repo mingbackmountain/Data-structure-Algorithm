@@ -6,4 +6,8 @@
 <fullyQualifiedTypeName name="doublylinkedlist.DoublyLinkedList"/>
 <fullyQualifiedTypeName name="array.Array"/>
 <fullyQualifiedTypeName name="stack.Stack"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthStyleFactory"/>
+<fullyQualifiedTypeName name="javax.swing.plaf.synth.SynthStyle"/>
+<fullyQualifiedTypeName name="project_datastruct.Warshall_algorithm"/>
 </qualifiedTypeNameHistroy>

@@ -17,6 +17,7 @@ public class SinglyLinkedList {
 		newNode.data = data;
 		newNode.next = first;
 		first = newNode;
+		System.out.println(first.data);
 	}
 	
 	//insert at the end

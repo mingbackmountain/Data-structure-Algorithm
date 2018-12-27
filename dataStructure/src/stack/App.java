@@ -11,6 +11,14 @@ public class App {
 		
 		String test = "Hello";
 		System.out.println(reverseString(test));
+		
+		Stack test1 = new Stack(2);
+		test1.push('f');
+		test1.push('l');
+		char temp = test1.pop();
+		System.out.println(temp);
+		
+		
 
 	}
 	

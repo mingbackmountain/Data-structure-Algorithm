@@ -31,7 +31,6 @@ public class Queue {
 			front = 0;
 		}
 		nItems--;
-		
 		return temp;
 	}
 	

@@ -8,8 +8,8 @@ public class App {
 		myqueue.insert(37);
 		myqueue.insert(30);
 		myqueue.insert(14);
+		myqueue.insert(56);
 		myqueue.view();
-		long dequeue = myqueue.remove();
-		System.out.println(dequeue);
+		
 	}
 }
